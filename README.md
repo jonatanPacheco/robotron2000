@@ -1,2 +1,1 @@
-# robotron2000
-Jogo em javaScript
+# robotron-2000
